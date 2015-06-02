@@ -1,0 +1,5 @@
+C:\1Code\Demo1-ALM-OOCv2\fgwcdalpha\fgwcdalpha\bin\fgwcdalpha.dll.config
+C:\1Code\Demo1-ALM-OOCv2\fgwcdalpha\fgwcdalpha\bin\fgwcdalpha.dll
+C:\1Code\Demo1-ALM-OOCv2\fgwcdalpha\fgwcdalpha\bin\fgwcdalpha.pdb
+C:\1Code\Demo1-ALM-OOCv2\fgwcdalpha\fgwcdalpha\obj\Release\fgwcdalpha.dll
+C:\1Code\Demo1-ALM-OOCv2\fgwcdalpha\fgwcdalpha\obj\Release\fgwcdalpha.pdb
